@@ -33,7 +33,7 @@ I'm also interested in blockchain infrastructure, particularly node operations, 
 ## Activities
 
 - **NinjaLabs Korea**, Injective Ecosystem — 2026–Present
-- **Blockchain at Yonsei**, Member — 2025–Present
+- **Blockchain at Yonsei 16th**, Member — 2025–2026
 
 ## Awards
 
