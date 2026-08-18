@@ -8,13 +8,6 @@ I'm also interested in blockchain infrastructure, particularly node operations, 
 
 ---
 
-## Areas of Interest
-
-- Cloud infrastructure and Infrastructure as Code
-- Kubernetes operations and GitOps
-- Observability and incident response
-- Blockchain infrastructure and node operations
-
 ## Tech Stack
 
 ### Cloud & Infrastructure
