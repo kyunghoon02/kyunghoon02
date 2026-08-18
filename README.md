@@ -2,38 +2,45 @@
 
 **Cloud & Infrastructure Engineer**
 
-I focus on building infrastructure that is reproducible, observable, and resilient.
+I focus on building reliable and observable cloud infrastructure.
 
-My primary interests are cloud-native platforms and reliable operations, with an additional focus on blockchain infrastructure such as nodes, RPC systems, and real-time transaction data.
+I'm also interested in blockchain infrastructure, particularly node operations, RPC systems, and real-time transaction data.
 
 ---
 
-## Focus
+## Areas of Interest
 
 - Cloud infrastructure and Infrastructure as Code
-- Kubernetes, GitOps, and platform operations
-- Observability, incident investigation, and recovery
-- Blockchain nodes, RPC pipelines, and mempool data
+- Kubernetes operations and GitOps
+- Observability and incident response
+- Blockchain infrastructure and node operations
 
-## Toolbox
+## Tech Stack
 
-**Cloud & IaC** — AWS, Terraform, Ansible  
-**Platform** — Kubernetes, Docker, Argo CD, Cilium, Istio  
-**Observability** — Prometheus, Grafana  
-**Languages** — Go, Python, TypeScript  
-**Data** — PostgreSQL  
+### Cloud & Infrastructure
 
-## Community
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-`2026 – Present` **NinjaLabs Korea** · Injective Ecosystem  
-`2025 – Present` **Blockchain at Yonsei** · Member  
+### Languages
 
-## Recognition
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-`2026` **Excellence Award** · SW-Centered University AI & Blockchain Business Model Competition  
-`Sep 2025` **Award Recipient** · Blockthon  
-`Aug 2025` **Award Recipient** · Sui-mming Hackathon  
+## Activities
 
-## Contact
+- **NinjaLabs Korea**, Injective Ecosystem — 2026–Present
+- **Blockchain at Yonsei**, Member — 2025–Present
 
-[Email](mailto:kyunghoon13@gmail.com) · [GitHub](https://github.com/kyunghoon02)
+## Awards
+
+- **Excellence Award** — SW-Centered University AI & Blockchain Business Model Competition, 2026
+- **Award Recipient** — Blockthon, September 2025
+- **Award Recipient** — Sui-mming Hackathon, August 2025
+
+## Links
+
+[Blog](https://kyunghoon.xyz) · [Email](mailto:kyunghoon13@gmail.com)
