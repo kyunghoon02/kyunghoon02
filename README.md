@@ -31,8 +31,8 @@ I'm also interested in blockchain infrastructure, particularly node operations, 
 ## Awards
 
 - **Excellence Award** — SW-Centered University AI & Blockchain Business Model Competition, 2026
-- **Award Recipient** — Blockthon, September 2025
 - **Award Recipient** — Sui-mming Hackathon, August 2025
+- **Award Recipient** — Blockthon, July 2025
 
 ## Links
 
